@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/auth-parent/JWT/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/auth-parent/JWT/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/auth-parent/MPInterceptor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/auth-parent/MPInterceptor/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/auth-parent/RedisTemplate/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/auth-parent/RedisTemplate/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/auth-parent/antiSamy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/auth-parent/antiSamy/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/auth-parent/cache/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/auth-parent/cache/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/auth-parent/dozer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/auth-parent/dozer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/auth-parent/knife4j/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/auth-parent/knife4j/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/auth-parent/logback/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/auth-parent/logback/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/auth-parent/matrixVariable/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/auth-parent/matrixVariable/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/auth-parent/trans/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/auth-parent/trans/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/auth-parent/validator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/auth-parent/validator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../test-demo/test-JWT/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../test-demo/test-MPInterceptor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../test-demo/test-RedisTemplate/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../test-demo/test-antiSamy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../test-demo/test-cache/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../test-demo/test-dozer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../test-demo/test-knife4j/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../test-demo/test-logback/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../test-demo/test-matrixVariable/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../test-demo/test-trans/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../test-demo/test-trans/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../test-demo/test-validator/src/main/java" charset="UTF-8" />
+  </component>
+</project>

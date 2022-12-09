@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="test-matrixVariable" />
+        <module name="matrixVariable" />
+        <module name="test-dozer" />
+        <module name="test-logback" />
+        <module name="cache" />
+        <module name="redisTemplate" />
+        <module name="JWT" />
+        <module name="MPInterceptor" />
+        <module name="validator" />
+        <module name="dozer" />
+        <module name="test-cache" />
+        <module name="test-trans" />
+        <module name="logback" />
+        <module name="test-MPInterceptor" />
+        <module name="test-knife4j" />
+        <module name="test-validator" />
+        <module name="test-antiSamy" />
+        <module name="antiSamy" />
+        <module name="knife4j" />
+        <module name="auth-apps" />
+        <module name="test-RedisTemplate" />
+        <module name="trans" />
+        <module name="test-JWT" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="antiSamy8009" target="1.8" />
+      <module name="antiSamy8010" target="1.8" />
+      <module name="argumentResolver8016" target="1.8" />
+      <module name="auth-apps" target="8" />
+      <module name="cache8018" target="1.8" />
+      <module name="cache8019" target="1.8" />
+      <module name="core" target="8" />
+      <module name="dozer8004" target="1.8" />
+      <module name="dozer8005" target="1.8" />
+      <module name="Event8012" target="1.8" />
+      <module name="hv8006" target="1.8" />
+      <module name="hv8007" target="1.8" />
+      <module name="j2cache8017" target="1.8" />
+      <module name="jwt" target="1.8" />
+      <module name="jwt8013" target="8" />
+      <module name="JWT8014" target="1.8" />
+      <module name="JWT8015" target="1.8" />
+      <module name="knife4j8002" target="1.8" />
+      <module name="knife4j8003" target="1.8" />
+      <module name="logback8011" target="1.8" />
+      <module name="logback8012" target="1.8" />
+      <module name="MatrixVariable8022" target="1.8" />
+      <module name="MPInterceptor8023" target="1.8" />
+      <module name="redis8021" target="1.8" />
+      <module name="swagger8001" target="1.8" />
+      <module name="trans8020" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Event8012" options="-parameters" />
+      <module name="JWT8014" options="-parameters" />
+      <module name="JWT8015" options="-parameters" />
+      <module name="MPInterceptor8023" options="-parameters" />
+      <module name="MatrixVariable8022" options="-parameters" />
+      <module name="antiSamy8009" options="-parameters" />
+      <module name="antiSamy8010" options="-parameters" />
+      <module name="argumentResolver8016" options="-parameters" />
+      <module name="cache8018" options="-parameters" />
+      <module name="cache8019" options="-parameters" />
+      <module name="dozer8004" options="-parameters" />
+      <module name="dozer8005" options="-parameters" />
+      <module name="hv8006" options="-parameters" />
+      <module name="hv8007" options="-parameters" />
+      <module name="j2cache8017" options="-parameters" />
+      <module name="jwt" options="-parameters" />
+      <module name="knife4j8002" options="-parameters" />
+      <module name="knife4j8003" options="-parameters" />
+      <module name="logback8011" options="-parameters" />
+      <module name="logback8012" options="-parameters" />
+      <module name="redis8021" options="-parameters" />
+      <module name="test-JWT" options="-parameters" />
+      <module name="test-MPInterceptor" options="-parameters" />
+      <module name="test-RedisTemplate" options="-parameters" />
+      <module name="test-antiSamy" options="-parameters" />
+      <module name="test-cache" options="-parameters" />
+      <module name="test-dozer" options="-parameters" />
+      <module name="test-knife4j" options="-parameters" />
+      <module name="test-logback" options="-parameters" />
+      <module name="test-matrixVariable" options="-parameters" />
+      <module name="test-trans" options="-parameters" />
+      <module name="test-validator" options="-parameters" />
+      <module name="trans8020" options="-parameters" />
+    </option>
+  </component>
+</project>

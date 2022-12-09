@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b0011c9f-a28b-4b91-8377-9203376b6f00" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="2DePdg3wBaTrTBTUmJ6da3qzP57" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="F:/brower/clusterScience2014-master" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.236911" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\javacode\auth-demo\auth-tools\antiSamy\src\main\resources" />
+      <recent name="D:\javacode\auth-demo\auth-tools\dozer\src\main\java\com\dozer\yml" />
+      <recent name="D:\javacode\auth-demo\auth-tools\dozer\src\main\java\com\dozer\dockerXML" />
+      <recent name="D:\javacode\auth-demo\auth-tools\knife4j\src\main\java\com\knife4j\yml" />
+      <recent name="D:\javacode\auth-demo\auth-tools\logback\src\main\java\com\logba\xml" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.logba.entity" />
+      <recent name="com.redisTemplate.configuration" />
+      <recent name="com.validator.controller" />
+      <recent name="com.logba.service" />
+      <recent name="com.trans.entity" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.trans8020ApplicationTest.test4">
+    <configuration name="teststr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.trans.teststr" />
+      <module name="test-trans" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.trans.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="trans8020ApplicationTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test-trans" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.trans.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.trans" />
+      <option name="MAIN_CLASS_NAME" value="com.trans.trans8020ApplicationTest" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="trans8020ApplicationTest.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test-trans" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.trans.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.trans" />
+      <option name="MAIN_CLASS_NAME" value="com.trans.trans8020ApplicationTest" />
+      <option name="METHOD_NAME" value="test4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hv8007Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="test-validator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hv.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hv.hv8007Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="trans8020Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="test-trans" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.trans.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.trans.trans8020Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.trans8020ApplicationTest.test3" />
+      <item itemvalue="JUnit.trans8020ApplicationTest.test4" />
+      <item itemvalue="Spring Boot.trans8020Application" />
+      <item itemvalue="Spring Boot.hv8007Application" />
+      <item itemvalue="应用程序.teststr" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.trans8020ApplicationTest.test4" />
+        <item itemvalue="应用程序.teststr" />
+        <item itemvalue="JUnit.trans8020ApplicationTest.test3" />
+        <item itemvalue="Spring Boot.hv8007Application" />
+        <item itemvalue="Spring Boot.trans8020Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="b0011c9f-a28b-4b91-8377-9203376b6f00" name="变更" comment="" />
+      <created>1661056667594</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661056667594</updated>
+      <workItem from="1661056669762" duration="9855000" />
+      <workItem from="1661066737459" duration="92740000" />
+      <workItem from="1661332578133" duration="18852000" />
+      <workItem from="1661744459785" duration="18668000" />
+      <workItem from="1663374884261" duration="573000" />
+      <workItem from="1663416252315" duration="186000" />
+      <workItem from="1663416697696" duration="3896000" />
+      <workItem from="1664721045573" duration="1263000" />
+      <workItem from="1664722331007" duration="763000" />
+      <workItem from="1666080436220" duration="481000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

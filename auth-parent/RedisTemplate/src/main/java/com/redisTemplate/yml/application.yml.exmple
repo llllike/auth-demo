@@ -1,0 +1,18 @@
+spring:
+  redis:
+    host: 127.0.0.1
+    port: 6379
+    # 连接redis数据源的索引
+    database: 2
+    # 超时毫秒数
+    timeout: 5000
+    jedis:
+      pool:
+        # 连接池最大连接数
+        max-active: 15
+        # 最大空闲连接数
+        max-idle: 8
+        # 最小空间连接数
+        min-idle: 0
+        # 连接池最大阻塞等待时间
+        max-wait: 5000

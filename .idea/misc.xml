@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../kdozer8004/pom.xml" />
+        <option value="$PROJECT_DIR$/../jwt/pom.xml" />
+        <option value="$PROJECT_DIR$/../jwt8013/pom.xml" />
+        <option value="$PROJECT_DIR$/../redis8018/pom.xml" />
+        <option value="$PROJECT_DIR$/../test-demo/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/auth-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/swagger/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

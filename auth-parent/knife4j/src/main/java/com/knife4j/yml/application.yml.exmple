@@ -1,0 +1,12 @@
+server:
+  port: 8003
+knife4j:
+  swagger:
+    title: 测试文档
+    docket:
+      user:
+        title: 用户模块
+        base-package: com.knife4j.controller.user
+      menu:
+        title: 菜单模块
+        base-package: com.knife4j.controller.menu
